@@ -1,0 +1,176 @@
+.navbar {
+  background-color: #F8D4E4;
+  border-bottom: 1px solid var(--lila-suave);
+  padding: 5px 0;
+}
+
+.navbar-brand {
+  color: #594276;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+.nav-link {
+  color: var(--texto-suave);
+  color: #594276;
+}
+
+.boton-nav:hover {
+  background-color: var(--lila);
+  color: var(--morado-oscuro);
+}
+
+.boton-nav {
+  background-color: hsl(268, 30%, 35%);
+  color: #f1e5cf;
+  border-radius: 12px;
+  padding: 8px 20px;
+}
+
+.boton-nav:hover {
+  background-color: #DCCCF5;
+  color: #594276;
+}
+
+.foto-piglet {
+  width: 100%;
+  max-width: 400px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 60px;
+  margin-top: 40px;
+}
+
+.foto-logo {
+  height: 40px;
+  width: auto;
+  margin-right: 4px;
+
+}
+
+.foto-lanas {
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.etiqueta { 
+  font-family: 18px;
+  font-size: 18px;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  color: #000000;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.etiqueta {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.foto-trapos {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.foto-accesorios {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.fotosa-piglet {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.tarjeta-producto {
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    padding: 16px;
+    height: 100%;
+}
+
+.fondoso-producto {
+  background-color: #F8D4E4;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+
+.foto-baphomet {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.foto-chimmy {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.foto-bolso {
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+
+.fondo-cotizacion {
+  background-color: #F8D4E4;
+}
+
+.tarjeta-formulario {
+  background-color: #FFFDF9;
+  max-width: 980px;
+  margin: 40px auto 0;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.tarjeta-formulario .form-label {
+  font-weight: 700;
+}
+
+.tarjeta-formulario .form-control,
+.tarjeta-formulario .form-select {
+  padding: 14px 16px;
+  border-radius: 10px;
+}
+
